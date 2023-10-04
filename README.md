@@ -1,6 +1,4 @@
-# This project has been archived!
-
-See https://github.com/Widen/cloudfront-auth/issues/104 for details about the status of this project.
+# Authentication to Private S3 sites!
 
 ---
 
